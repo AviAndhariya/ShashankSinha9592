@@ -1,3 +1,4 @@
+<img src = "https://camo.githubusercontent.com/3015c6f34ed5c2131bac41a22b7a27a847f65803d232c99fe31f649c9c746fbd/68747470733a2f2f7777772e61616469747269746563686e6f6c6f67792e636f6d2f696d616765732f726564657369676e2e676966" />
 <h1 align="center">Hi 👋, I'm Shashank Kumar</h1>
 <h3 align="center">Aspiring and self-motivated Full Stack Web Developer proficient in creating user friendly ready to use web application attired with front-end as well as back-end technologies.</h3>
 
@@ -8,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://shashanksinha9592.github.io/shashank9592sinha.github.io/](https://shashanksinha9592.github.io/shashank9592sinha.github.io/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Z7JnDSB9Hxzk7NPIkWnABZ5InF2uy54F/view?usp=share_link](https://drive.google.com/file/d/1Z7JnDSB9Hxzk7NPIkWnABZ5InF2uy54F/view?usp=share_link)
-
+<img align="right" width="500px" height="400px" src="https://camo.githubusercontent.com/c168794a1d10d4515befd389775ab9ec546490bff17cf56a57fbcdb73599a18c/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f636f64696e672d667265616b2e676966"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shashank9592sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank9592sinha" height="30" width="40" /></a>
