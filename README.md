@@ -1,5 +1,7 @@
 <img src = "https://camo.githubusercontent.com/3015c6f34ed5c2131bac41a22b7a27a847f65803d232c99fe31f649c9c746fbd/68747470733a2f2f7777772e61616469747269746563686e6f6c6f67792e636f6d2f696d616765732f726564657369676e2e676966" />
 <h1 align="center">Hi 👋, I'm Shashank Kumar</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6B0000&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 <h3 align="center">Aspiring and self-motivated Full Stack Web Developer proficient in creating user friendly ready to use web application attired with front-end as well as back-end technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashanksinha9592&label=Profile%20views&color=0e75b6&style=flat" alt="shashanksinha9592" /> </p>
